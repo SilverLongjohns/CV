@@ -1,55 +1,46 @@
-## Your Name
+## Jacob Cummings
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+Hi! I'm Jake, an enthusiastic developer working on projects to make lives easier. I've built projects linked to influential software such as Spotify and Discord.
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+#### Team Player
 
-#### This Skill
+- During a project, the most important skill is being able to encourage and work with your team effectively. Motivation and teamplay are at the core of my work. 
+- Throughout the Makers course, I held weekly stand-ups for the students in my cohort. This allowed us to knowledge-share effectively and air any blockages or problems we were having as a group.
+- Testimony from a pair programming partner:
 
-- Experience
-- Achievements
-- Evidence
+"You were very patient in your teaching and your excitement really made it enjoyable to listen and understand what you were teaching. You showed determination in completing the task at hand and explain your logic in a very clear way. You also read the error messages which prevented us from going around in circles. I will definitely want to pair with you again."
 
-#### Another Skill
+#### Self-Starter
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- I have lots of experience in figuring things out for myself and building a successful work environment from nothing. During my time as a Business Development Executive, I brought in clients from Europe with little to no groundwork. I contributed to the growth of my company through bringing in new business and providing excellent service to my clients.
+- This has taught me excellent methodology by which to get settled in almost any environment and make it my own.
+- Communicating with clients from foreign countries such as France an germany has helped me hone in on the best ways in which to learn and communicate in new languages, a skill which has become invaluable in software engineering.
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (July 2020 to September 2020)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Exeter University (2016 to 2019)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
+- BSc Conservation Biology
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-- Any experience relevent to software development
+Careers in Audit (Sept - April 2019)    
+*Business Development Executive*  
+Through regular client meetings and advisory sessions, I developed the ability to work with a variety of people from all sorts of professional backgrounds. Due to the small business environment, I worked in tandem with different departments, keeping communication and workflow clear and effective.A self-starter mentality wasparamount and I learned to build my own desk.
 
-**Company Name** (start_date to end_date)   
-*Your job title*  
-- Any experience relevent to software development
+Airbus Space and Defence (2015)   
+Mission Systems Intern
+I was tasked with researching advantages of unmanned missions into space and weighing the cost benefit when compared to their manned alternatives. This allowed me to become comfortable with self-motivated research, while laying outinformation coherently
 
-## Hobbies
-
-Any cool stuff that makes you a super part of a software development team
+French Foreign Ministry (2011)
+Press Intern
+Translated a variety of documents for both international press releases and communications with foreign officials. Learned at a young age to work with meaningful documentation and work to a deadline.
