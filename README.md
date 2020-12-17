@@ -44,3 +44,11 @@ I was tasked with researching advantages of unmanned missions into space and wei
 French Foreign Ministry (2011)
 Press Intern
 Translated a variety of documents for both international press releases and communications with foreign officials. Learned at a young age to work with meaningful documentation and work to a deadline.
+
+## Things That I'm Proud Of
+
+SpotiPhyte: https://github.com/SilverLongjohns/spotiPhyte
+- A JavaScript application in which you grow a plant by playing it your music! Uses the Spotify API to read your library and currently playing tracks. This was an awesome experience which taught me much about everything from authentication processes to game design!
+
+RegaliaBot: https://github.com/SilverLongjohns/RegaliaBot
+- Currently in development! A Discord chat bot which provides many quality-of-life services for a gaming community of over 150 people! This project is constantly teaching me how to work with users to produce the cleanest and most functional features and how to maintain an in-use service.
