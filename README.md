@@ -39,10 +39,12 @@ Through regular client meetings and advisory sessions, I developed the ability t
 
 Airbus Space and Defence (2015)   
 *Mission Systems Intern*
+
 I was tasked with researching advantages of unmanned missions into space and weighing the cost benefit when compared to their manned alternatives. This allowed me to become comfortable with self-motivated research, while laying outinformation coherently
 
 French Foreign Ministry (2011)
 *Press Intern*
+
 Translated a variety of documents for both international press releases and communications with foreign officials. Learned at a young age to work with meaningful documentation and work to a deadline.
 
 ## Things That I'm Proud Of
