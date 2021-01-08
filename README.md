@@ -37,14 +37,12 @@ Careers in Audit (Sept - April 2019)
 *Business Development Executive*  
 Through regular client meetings and advisory sessions, I developed the ability to work with a variety of people from all sorts of professional backgrounds. Due to the small business environment, I worked in tandem with different departments, keeping communication and workflow clear and effective.A self-starter mentality wasparamount and I learned to build my own desk.
 
-Airbus Space and Defence (2015)   
+Airbus Space and Defence (2015)    
 *Mission Systems Intern*
-
 I was tasked with researching advantages of unmanned missions into space and weighing the cost benefit when compared to their manned alternatives. This allowed me to become comfortable with self-motivated research, while laying outinformation coherently
 
-French Foreign Ministry (2011)
+French Foreign Ministry (2011)    
 *Press Intern*
-
 Translated a variety of documents for both international press releases and communications with foreign officials. Learned at a young age to work with meaningful documentation and work to a deadline.
 
 ## Things That I'm Proud Of
