@@ -1,6 +1,6 @@
 ## Jacob Cummings
 
-Hi! I'm Jake, an enthusiastic developer working on projects to make lives easier. I've built projects linked to influential software such as Spotify and Discord.
+Hi! I'm Jake, an enthusiastic developer working on fun and innovative projects. I've built apps in many languages, working with software that you'll recognise!
 
 ## Skills
 
